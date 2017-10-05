@@ -81,3 +81,8 @@ Release Date: Sep 28, 2017
 - Completed task "Kilo" from the issue list
 - Added some descriptive comments in routes.php
 
+## Version 0.1.3
+
+Release Date: Oct 5, 2017
+
+- Testing gpg sign 2
